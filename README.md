@@ -1,6 +1,7 @@
 # Autonomous Parking Perception and Control
 
 This project is my autonomous parking demo using the Polaris GEM e4 simulator. The car drives through the highbay scene, stops at a stop sign, waits, and then parks inside a cone-marked parking spot.
+Youtube Link: https://youtu.be/s4hsUfMD6Ms
 
 The system is split into three main parts:
 
